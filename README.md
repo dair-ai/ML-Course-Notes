@@ -9,7 +9,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Video</b></th>
     <th class="tg-yw4l"><b>Notes</b></th>
-    
+    <th class="tg-yw4l"><b>Author</b></th>
   </tr>
   
   <tr>
@@ -18,6 +18,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l"><a href="https://youtu.be/7sB052Pz0sQ">Video<a></td>
     <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-1-Intro-to-DL-d4929997a7a34a33a163cf40ba00360b">Notes
 </a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
 </table>
 
@@ -28,5 +29,6 @@ A place to collaborate and share course notes on all topics related to machine l
 2) Write your notes, preferably in a Google document, Notion document, or GitHup repo.
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
+5) Any problems with notes? Reach out to the authors of the notes and open issue.
 
 If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
