@@ -1,5 +1,5 @@
 # ML Course Notes
-A place to collaborate and share course notes and code on all topics related to machine learning, NLP, and AI.
+A place to collaborate and share course notes on all topics related to machine learning, NLP, and AI.
 
 ### MIT 6.S191 Introduction to Deep Learning
 
@@ -21,3 +21,9 @@ A place to collaborate and share course notes and code on all topics related to 
   </tr>
 </table>
 
+---
+### How To Contribute
+
+1) Identify a course and lecture from this list.
+2) Write your notes, preferably in a Google document, Notion document, or GitHup repo
+3) Once you are finished, open PR here
