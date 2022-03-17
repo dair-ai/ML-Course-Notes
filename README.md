@@ -28,3 +28,5 @@ A place to collaborate and share course notes on all topics related to machine l
 2) Write your notes, preferably in a Google document, Notion document, or GitHup repo
 3) We care about quality, so make sure to revise your notes before submitting
 4) Once you are finished, open a PR here
+
+If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
