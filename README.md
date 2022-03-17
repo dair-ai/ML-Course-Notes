@@ -18,7 +18,6 @@ A place to collaborate and share course notes and code on all topics related to 
     <td class="tg-yw4l">Beginner</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/drive/1AWXvwvyoOczCugTTULLbIPYIh2_GS2Aq"> Link
 </a></td>
-    <td class="tg-yw4l"><a href="https://medium.com/dair-ai/implementing-a-logistic-regression-model-from-scratch-with-pytorch-24ea062cd856?source=friends_link&sk=49dcddb17d1d021d2d677f3666c884636">read</a></td>
   </tr>
 </table>
 
