@@ -1,4 +1,4 @@
-# ML Course Notes
+# 🎓 ML Course Notes
 A place to collaborate and share course notes on all topics related to machine learning, NLP, and AI.
 
 ### MIT 6.S191 Introduction to Deep Learning (2022)
