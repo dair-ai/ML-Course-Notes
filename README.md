@@ -43,7 +43,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Introduction and Word Vectors</td>
     <td class="tg-yw4l">Introduction to NLP and word vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/3">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
   <tr>
