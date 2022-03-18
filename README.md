@@ -20,7 +20,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Recurrent Neural Networks and Transformers</td>
+    <td class="tg-yw4l">RNNs and Transformers</td>
     <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
     <td class="tg-yw4l"><a href="">WIP</a></td>
@@ -41,14 +41,14 @@ A place to collaborate and share course notes on all topics related to machine l
   
   <tr>
     <td class="tg-yw4l">Introduction and Word Vectors</td>
-    <td class="tg-yw4l">Basic fundamentals of neural networks and deep learning.</td>
+    <td class="tg-yw4l">Introduction to NLP and word vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
     <td class="tg-yw4l"><a href="">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Neural Classifiers</td>
-    <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
+    <td class="tg-yw4l">Neural Classifiers for NLP.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/gqaHkPEZAew">Video<a></td>
     <td class="tg-yw4l"><a href="">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
