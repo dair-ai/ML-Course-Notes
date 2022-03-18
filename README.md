@@ -28,6 +28,34 @@ A place to collaborate and share course notes on all topics related to machine l
   </tr>
 </table>
 
+### CS224N: Natural Language Processing with Deep Learning (2022) [[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)]
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction and Word Vectors</td>
+    <td class="tg-yw4l">Basic fundamentals of neural networks and deep learning.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Neural Classifiers</td>
+    <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/gqaHkPEZAew">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+</table>
+
+      
 ---
 ### How To Contribute
 
