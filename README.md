@@ -1,6 +1,8 @@
 # 🎓 ML Course Notes
 A place to collaborate and share course notes on all topics related to machine learning, NLP, and AI.
 
+`WIP` denotes work in progress
+
 ### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
 
 <table class="tg">
