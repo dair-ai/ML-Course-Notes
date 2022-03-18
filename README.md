@@ -16,8 +16,14 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Introduction to Deep Learning</td>
     <td class="tg-yw4l">Basic fundamentals of neural networks and deep learning.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/7sB052Pz0sQ">Video<a></td>
-    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-1-Intro-to-DL-d4929997a7a34a33a163cf40ba00360b">Notes
-</a></td>
+    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-1-Intro-to-DL-d4929997a7a34a33a163cf40ba00360b">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Recurrent Neural Networks and Transformers</td>
+    <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
 </table>
