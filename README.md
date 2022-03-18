@@ -23,7 +23,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">RNNs and Transformers</td>
     <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/2">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
 </table>
