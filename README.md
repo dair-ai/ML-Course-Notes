@@ -25,7 +25,14 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">RNNs and Transformers</td>
     <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
-    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/2">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-2-Recurrent-Neural-Networks-and-Transformers-71fb3ba2a24f4b6c8cc77281fc19cfab">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Computer Vision</td>
+    <td class="tg-yw4l">Deep Neural Networks for Computer Vision.</td>
+    <td class="tg-yw4l">Coming Soon!</td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
 </table>
