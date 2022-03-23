@@ -3,6 +3,8 @@ A place to collaborate and share course notes on all topics related to machine l
 
 `WIP` denotes work in progress
 
+:new: denotes recent notes published
+
 ### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
 
 <table class="tg">
@@ -25,7 +27,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">RNNs and Transformers</td>
     <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
-    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-2-Recurrent-Neural-Networks-and-Transformers-71fb3ba2a24f4b6c8cc77281fc19cfab">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-2-Recurrent-Neural-Networks-and-Transformers-71fb3ba2a24f4b6c8cc77281fc19cfab">:new: Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
   <tr>
