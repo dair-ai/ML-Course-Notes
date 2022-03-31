@@ -34,8 +34,8 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Deep Computer Vision</td>
     <td class="tg-yw4l">Deep Neural Networks for Computer Vision.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/uapdILWYTzE">Video<a></td>
-    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3">WIP</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis :new:<a></td>
+    <td class="tg-yw4l"><a href="https://fluorescent-handle-278.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
 </table>
 
