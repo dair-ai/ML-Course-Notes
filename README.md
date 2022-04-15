@@ -3,7 +3,7 @@ A place to collaborate and share course notes on all topics related to machine l
 
 `WIP` denotes work in progress
 
-:new: denotes recent notes published
+:new: denotes recently published notes
 
 ### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
 
