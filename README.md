@@ -41,9 +41,31 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Deep Generative Modeling</td>
     <td class="tg-yw4l">Autoencoders and GANs.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/QcLlc9lj2hk">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-4-Deep-Generative-Modeling-928d24a5764d4bf1bcf5fb4c4234f6ac">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-4-Deep-Generative-Modeling-928d24a5764d4bf1bcf5fb4c4234f6ac">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Reinforcement Learning</td>
+    <td class="tg-yw4l">Deep RL key concepts and DQNs.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/-WbN61qtTGQ">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Limitations and New Frontiers</td>
+    <td class="tg-yw4l">Limitations and New Frontiers in Deep Learning.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/wySXLRTxAGQ">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Autonomous Driving with LiDAR</td>
+    <td class="tg-yw4l">Autonomous Driving with LiDAR.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/NHZMfSMAHlo">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0)">Elvis<a></td>
+  </tr> 
+      
 </table>
 
 ### CS224N: Natural Language Processing with Deep Learning (2022) [[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)]
