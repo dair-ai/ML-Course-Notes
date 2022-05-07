@@ -6,6 +6,7 @@ A place to collaborate and share course notes on all topics related to machine l
 :new: denotes recently published notes
 
 ### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
+Lectures by: Alexander Amini and Ava Soleimany
 
 <table class="tg">
   <tr>
