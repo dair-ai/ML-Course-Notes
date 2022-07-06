@@ -82,7 +82,7 @@ Lectures by: Alexander Amini and Ava Soleimany
   
   <tr>
     <td class="tg-yw4l">Introduction and Word Vectors</td>
-    <td class="tg-yw4l">Introduction to NLP and word vectors.</td>
+    <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
     <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
