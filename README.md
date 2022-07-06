@@ -49,7 +49,7 @@ Lectures by: Alexander Amini and Ava Soleimany
     <td class="tg-yw4l">Deep Reinforcement Learning</td>
     <td class="tg-yw4l">Deep RL key concepts and DQNs.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/-WbN61qtTGQ">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Lectures by: Alexander Amini and Ava Soleimany
     <td class="tg-yw4l">Introduction and Word Vectors</td>
     <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes :new:</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
