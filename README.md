@@ -96,6 +96,41 @@ Lectures by: Alexander Amini and Ava Soleimany
   </tr>
 </table>
 
+
+### Machine Learning Specialization (2022) [[Website](https://www.coursera.org/specializations/machine-learning-introduction)]
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Machine Learning</td>
+    <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
       
 ---
 ### How To Contribute
