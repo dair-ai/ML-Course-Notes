@@ -131,10 +131,7 @@ Lectures by: Alexander Amini and Ava Soleimany
   </tr>
 </table>
 
-      
----
-The notes are licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
+ 
 ---
 ### How To Contribute
 
