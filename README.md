@@ -133,6 +133,9 @@ Lectures by: Alexander Amini and Ava Soleimany
 
       
 ---
+The notes are licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
 ### How To Contribute
 
 1) Identify a course and lecture from this [list](https://github.com/dair-ai/ML-YouTube-Courses). If you are working on notes for a lecture, please indicate by opening an issue. This avoids duplicate work. 
