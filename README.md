@@ -5,8 +5,8 @@ A place to collaborate and share course notes on all topics related to machine l
 
 :new: denotes recently published notes
 
-### MIT 6.S191 Introduction to Deep Learning (2022) [[Website](http://introtodeeplearning.com/)]
-Lectures by: Alexander Amini and Ava Soleimany
+### MIT 6.S191 Introduction to Deep Learning (2022) 
+[Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
 
 <table class="tg">
   <tr>
@@ -69,7 +69,8 @@ Lectures by: Alexander Amini and Ava Soleimany
       
 </table>
 
-### CS224N: Natural Language Processing with Deep Learning (2022) [[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)]
+### CS224N: Natural Language Processing with Deep Learning (2022) 
+[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
 <table class="tg">
   <tr>
@@ -96,8 +97,36 @@ Lectures by: Alexander Amini and Ava Soleimany
   </tr>
 </table>
 
+### CS25: Transformers United
+[Website](https://web.stanford.edu/class/cs25/) | Instructors: Div Garg, Chetanya Rastogi, Advay Pal
 
-### Machine Learning Specialization (2022) [[Website](https://www.coursera.org/specializations/machine-learning-introduction)]
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Transformers</td>
+    <td class="tg-yw4l">A short summary of attention and Transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/P127jhj-8-Y">Video<a></td>
+    <td class="tg-yw4l"><a href="https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Transformers in Language: GPT-3, Codex</td>
+    <td class="tg-yw4l">The development of GPT Models including GPT3.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/qGkzHFllWDY">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+### Machine Learning Specialization (2022) 
+[Website](https://www.coursera.org/specializations/machine-learning-introduction)
 
 <table class="tg">
   <tr>
