@@ -165,7 +165,7 @@ A place to collaborate and share course notes on all topics related to machine l
 ### How To Contribute
 
 1) Identify a course and lecture from this [list](https://github.com/dair-ai/ML-YouTube-Courses). If you are working on notes for a lecture, please indicate by opening an issue. This avoids duplicate work. 
-2) Write your notes, preferably in a Google document, Notion document, or GitHup repo.
+2) Write your notes, preferably in a Google document, Notion document, or GitHub repo.
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
 
