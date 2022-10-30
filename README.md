@@ -141,7 +141,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Introduction to Machine Learning</td>
     <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
     <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
    <tr>
