@@ -5,6 +5,45 @@ A place to collaborate and share course notes on all topics related to machine l
 
 :new: denotes recently published notes
 
+---
+
+### Machine Learning Specialization (2022) 
+[Website](https://www.coursera.org/specializations/machine-learning-introduction) | Instructor: Andrew Ng
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Machine Learning</td>
+    <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+   <tr>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l">Advanced Learning Algorithms</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Videos<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+---
+
 ### MIT 6.S191 Introduction to Deep Learning (2022) 
 [Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
 
@@ -69,8 +108,40 @@ A place to collaborate and share course notes on all topics related to machine l
       
 </table>
 
+---
+
+### CMU Neural Nets for NLP (2021)
+[Website](http://phontron.com/class/nn4nlp2021/schedule.html) | Instructor: Graham Neubig
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Simple Neural Networks for NLP</td>
+    <td class="tg-yw4l">Provides an introduction to neural networks for NLP covering concepts like BOW, CBOW, and Deep CBOW</td>
+    <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=vnx6M7N-ggs&ab_channel=GrahamNeubig">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-to-Simple-Neural-Networks-for-NLP-b7afa29af56e4d47a75fbcf3b82407db">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Neural Classifiers</td>
+    <td class="tg-yw4l">Neural Classifiers for NLP.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/gqaHkPEZAew">Video<a></td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/4">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+---
+
 ### CS224N: Natural Language Processing with Deep Learning (2022) 
-[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | Instructor: C‪hristopher Manning
 
 <table class="tg">
   <tr>
@@ -85,7 +156,7 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">Introduction and Word Vectors</td>
     <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
@@ -96,6 +167,8 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
 </table>
+
+---
 
 ### CS25: Transformers United
 [Website](https://web.stanford.edu/class/cs25/) | Instructors: Div Garg, Chetanya Rastogi, Advay Pal
@@ -121,41 +194,6 @@ A place to collaborate and share course notes on all topics related to machine l
     <td class="tg-yw4l">The development of GPT Models including GPT3.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/qGkzHFllWDY">Video<a></td>
     <td class="tg-yw4l">WIP</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr>
-</table>
-
-### Machine Learning Specialization (2022) 
-[Website](https://www.coursera.org/specializations/machine-learning-introduction)
-
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Lecture</b></th>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Video</b></th>
-    <th class="tg-yw4l"><b>Notes</b></th>
-    <th class="tg-yw4l"><b>Author</b></th>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">Introduction to Machine Learning</td>
-    <td class="tg-yw4l">Supervised Machine Learning: Regression and Classification</td>
-    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4">Notes</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr>
-   <tr>
-    <td class="tg-yw4l">Advanced Learning Algorithms</td>
-    <td class="tg-yw4l">Advanced Learning Algorithms</td>
-    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
-    <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
-    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
 </table>
