@@ -129,13 +129,6 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-to-Simple-Neural-Networks-for-NLP-b7afa29af56e4d47a75fbcf3b82407db">Notes :new:</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
-  <tr>
-    <td class="tg-yw4l">Neural Classifiers</td>
-    <td class="tg-yw4l">Neural Classifiers for NLP.</td>
-    <td class="tg-yw4l"><a href="https://youtu.be/gqaHkPEZAew">Video<a></td>
-    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/4">WIP</a></td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr>
 </table>
 
 ---
