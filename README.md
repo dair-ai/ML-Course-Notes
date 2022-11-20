@@ -3,8 +3,6 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 `WIP` denotes work in progress
 
-:new: denotes recently published notes
-
 ---
 
 ### Machine Learning Specialization (2022) 
@@ -126,7 +124,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l">Introduction to Simple Neural Networks for NLP</td>
     <td class="tg-yw4l">Provides an introduction to neural networks for NLP covering concepts like BOW, CBOW, and Deep CBOW</td>
     <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=vnx6M7N-ggs&ab_channel=GrahamNeubig">Video<a></td>
-    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-to-Simple-Neural-Networks-for-NLP-b7afa29af56e4d47a75fbcf3b82407db">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-to-Simple-Neural-Networks-for-NLP-b7afa29af56e4d47a75fbcf3b82407db">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
 </table>
@@ -179,7 +177,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l">Introduction to Transformers</td>
     <td class="tg-yw4l">A short summary of attention and Transformers.</td>
     <td class="tg-yw4l"><a href="https://youtu.be/P127jhj-8-Y">Video<a></td>
-    <td class="tg-yw4l"><a href="https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
