@@ -28,14 +28,14 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l">Advanced Learning Algorithms</td>
     <td class="tg-yw4l">Advanced Learning Algorithms</td>
     <td class="tg-yw4l"><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l">WIP</td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
     <td class="tg-yw4l">Unsupervised Learning, Recommenders, Reinforcement Learning</td>
     <td class="tg-yw4l"><a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction">Videos<a></td>
-    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l">WIP</td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
 </table>
