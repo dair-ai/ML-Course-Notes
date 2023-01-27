@@ -1,7 +1,7 @@
 # 🎓 Machine Learning Course Notes
 A place to collaborate and share lecture notes on all topics related to machine learning, NLP, and AI.
 
-`WIP` denotes work in progress
+`WIP` denotes work in progress.
 
 ---
 
