@@ -210,6 +210,34 @@ A place to collaborate and share lecture notes on all topics related to machine 
   </tr>
 </table>
 
+
+### Miscellaneous Lectures
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Diffusion Models</td>
+    <td class="tg-yw4l">Technical overview of Diffusion Models</td>
+    <td class="tg-yw4l"><a href="">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Reinforcement Learning from Human Feedback (RLHF)</td>
+    <td class="tg-yw4l">Overview of RLHF</td>
+    <td class="tg-yw4l"><a href="">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
  
 ---
 ### How To Contribute
