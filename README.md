@@ -189,6 +189,27 @@ A place to collaborate and share lecture notes on all topics related to machine 
   </tr>
 </table>
 
+### Neural Networks: Zero to Hero
+[Lectures](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Instructors: Andrej Karpathy
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Let's build GPT: from scratch, in code, spelled out</td>
+    <td class="tg-yw4l">Detailed walkthrough of GPT</td>
+    <td class="tg-yw4l"><a href="https://youtube.com/watch?v=kCc8FmEb1nY&feature=sharesY">Video<a></td>
+    <td class="tg-yw4l"><a href="">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
  
 ---
 ### How To Contribute
