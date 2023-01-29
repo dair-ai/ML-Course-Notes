@@ -189,6 +189,8 @@ A place to collaborate and share lecture notes on all topics related to machine 
   </tr>
 </table>
 
+---
+
 ### Neural Networks: Zero to Hero
 [Lectures](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | Instructors: Andrej Karpathy
 
@@ -210,6 +212,7 @@ A place to collaborate and share lecture notes on all topics related to machine 
   </tr>
 </table>
 
+---
 
 ### Miscellaneous Lectures
 
@@ -247,7 +250,6 @@ A place to collaborate and share lecture notes on all topics related to machine 
 3) We care about quality, so make sure to revise your notes before submitting.
 4) Once you are finished, open a PR here.
 
-If you encounter any problems with the notes? Reach out to the authors of the notes and open issue here.
 
 If you have any questions, open an issue or reach out to me on [Twitter](https://twitter.com/omarsar0).
 
