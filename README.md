@@ -89,20 +89,6 @@ A place to collaborate and share lecture notes on all topics related to machine 
     <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes</a></td>
     <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
   </tr>
-  <tr>
-    <td class="tg-yw4l">Limitations and New Frontiers</td>
-    <td class="tg-yw4l">Limitations and New Frontiers in Deep Learning.</td>
-    <td class="tg-yw4l"><a href="https://youtu.be/wySXLRTxAGQ">Video<a></td>
-    <td class="tg-yw4l">WIP</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l">Autonomous Driving with LiDAR</td>
-    <td class="tg-yw4l">Autonomous Driving with LiDAR.</td>
-    <td class="tg-yw4l"><a href="https://youtu.be/NHZMfSMAHlo">Video<a></td>
-    <td class="tg-yw4l">WIP</td>
-    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
-  </tr> 
       
 </table>
 
